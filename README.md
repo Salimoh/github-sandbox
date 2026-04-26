@@ -1,4 +1,5 @@
 # github-sandbox
+download: https://example.com/file.zip
 
 # 📥 Download Files via Commit Message
 
